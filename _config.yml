@@ -8,7 +8,7 @@ baseurl: /center-for-vietnamese-philosophy-culture-and-society
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'The Center for Vietnamese Philosophy, Culture, and Society is a national center for scholarly research, educational training, and mutual understanding.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
@@ -18,7 +18,7 @@ address:
   room: 1016
   street: 1115 Polett Walk
   city: Philadelphia, PA 19122
-  email: vietcent@temple.edu
+  email: <a href="mailto:vietcent@temple.edu">vietcent@temple.edu</a>
   phone: 
 
 # Social Media

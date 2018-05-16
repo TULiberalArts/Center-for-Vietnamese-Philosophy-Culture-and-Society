@@ -38,7 +38,7 @@ Viện Nghiên cứu Hán Nôm<br>
 Tel: [+84 4 857 3194](tel:8448573194)<br> 
 Fax [+84 4 857 0940](tel:8448570940)<br>
 Email: hannom105@vnn.vn<br> 
-[Website](http://www.hannom.org.vn)<br>
+Website- Broken Link<br>
 
 **National Center for Vietnamese Studies**<br>
 Trung tâm Nghiên cứu Quốc học<br>

@@ -4,25 +4,23 @@ permalink: /
 layout: home
 description: >-
 keywords: ''
-feature: false
-feature-title: null
-feature-image: null
-feature-body: null
+feature: true
+feature-title: A national center for scholarly research, educational training and mutual understanding.
+feature-image: media/MingMangTomb_001.jpg
+feature-body: >- 
+  The Center for Vietnamese Philosophy, Culture, and Society at Temple University
+  was founded in September, 2004. The Center sponsors a range of programs on Vietnam's 
+  rich heritage of philosophy and culture including conferences, colloquia, classes, a 
+  research library and courses in the Vietnamese language. 
 published: true
 ---
+The Center for Vietnamese Philosophy, Culture, and Society at Temple University was founded in September, 2004. The Center sponsors a range of programs on Vietnam's rich heritage of philosophy and culture including conferences, colloquia, classes, a research library and courses in the Vietnamese language. The Center also coordinates scholarly and educational visits. The Center is currently participating in a multi-year faculty seminar program involving the Departments of Philosophy at Temple University and at the Ho Chi Minh National Political Academy in Hanoi. The programs have taken place in Hanoi, Philadelphia, Washington, D.C., and New York City.
 
-Center for Vietnamese Philosophy Culture and Society...
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+As part of this project, Temple and the Ho Chi Minh Academy are cooperating on an on-line handbook of philosophical terms from East and West, with entries in both Vietnamese and English. This project is being supported by the Ford Foundation. English-Vietnamese Handbook on Philosophy and Political Economy
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title=" " 
+    title="NEED CONTENT" 
     content=" " 
     image="" 
     button-link=" " 
@@ -30,7 +28,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
-      title=" " 
+      title="NEED CONTENT" 
       content=" " 
       image="" 
       button-link=" " 
@@ -38,7 +36,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title=" " 
+        title="NEED CONTENT" 
         content=" " 
         image="" 
         button-link=" " 

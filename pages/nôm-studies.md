@@ -37,7 +37,7 @@ Viện Nghiên cứu Hán Nôm<br>
 Đống Đa District, Hanoi, Vietnam<br> 
 Tel: [+84 4 857 3194](tel:8448573194)<br> 
 Fax [+84 4 857 0940](tel:8448570940)<br>
-Email: [hannom105@vnn.vn](mailto:hannom105@vnn.vn)<br> 
+Email: hannom105@vnn.vn<br> 
 [Website](http://www.hannom.org.vn)<br>
 
 **National Center for Vietnamese Studies**<br>
@@ -50,7 +50,7 @@ Fax: [+84 4 826 3777](tel:8448263777)<br>
 **81 Trần Quốc Toản Street**<br>
 Ho Chi Minh City, Vietnam<br> 
 Tel: [+84 8 932 7061](tel:8489327061)<br>
-Email: [aiquoclien@hcm.vnn.vn](mailto:aiquoclien@hcm.vnn.vn)<br>
+Email: aiquoclien@hcm.vnn.vn<br>
 
 **Thua Thien-Hue Center for Information Technology (HueCIT)**<br>
 Trung tâm Công nghệ Thông tin Thừa Thiên – Huế<br>

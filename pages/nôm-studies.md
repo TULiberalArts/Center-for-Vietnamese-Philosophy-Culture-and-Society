@@ -29,7 +29,7 @@ Viện Thông tin Khoa học Xã hội<br>
 26 Lý Thường Kiệt Street<br>
 Hanoi, Vietnam<br> 
 Tel: [+84 4 825 3074](tel:8448253074)<br>
-[Website](http://issi.vass.gov.vn)<br> 
+Website- Broken Link
 
 **Institute of Han Nom Research**<br>
 Viện Nghiên cứu Hán Nôm<br>
@@ -50,7 +50,7 @@ Fax: [+84 4 826 3777](tel:8448263777)<br>
 **81 Trần Quốc Toản Street**<br>
 Ho Chi Minh City, Vietnam<br> 
 Tel: [+84 8 932 7061](tel:8489327061)<br>
-Email: aiquoclien@hcm.vnn.vn<br>
+Email: broken link<br>
 
 **Thua Thien-Hue Center for Information Technology (HueCIT)**<br>
 Trung tâm Công nghệ Thông tin Thừa Thiên – Huế<br>

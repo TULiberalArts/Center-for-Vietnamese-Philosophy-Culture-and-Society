@@ -1,6 +1,10 @@
-- text: Research
-  url: /research/
-- text: Resources
-  url : /resources/
+- text: Courses
+  url: /courses/
+- text: Handbook On Philosophy
+  url: /handbook-on-philosophy/
+- text: Visual Anthropology
+  url: /visual-anthropology/  
+- text: Nôm Studies
+  url : /nôm-studies/
 - text: Faculty
   url: /faculty/

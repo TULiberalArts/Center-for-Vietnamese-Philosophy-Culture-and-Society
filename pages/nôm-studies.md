@@ -56,7 +56,7 @@ Email: aiquoclien@hcm.vnn.vn<br>
 Trung tâm Công nghệ Thông tin Thừa Thiên – Huế<br>
 6 Lê Lợi Street<br> 
 Huế, Vietnam<br> 
-[Website](http://www.huesoft.com.vn/hannom)<br>
+Website- Broken Link<br>
 
 **Đạo Uyển Group – Nôm documents**<br>
 [Website](http://www.daouyen.com/NomDoc/Nom.htm)<br>

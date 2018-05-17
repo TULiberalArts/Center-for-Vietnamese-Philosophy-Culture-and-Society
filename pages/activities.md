@@ -28,7 +28,6 @@ On February 18, 2005, linguist and mathematician Dr. Ngô Thanh Nhàn of New Yor
 
 ### Tu Packard's Lecture on Gender Dimensions of Vietnam's Economy
 **_"Gender Dimensions of Vietnam's Economic Reforms"_**
-![Le Anh Tu Packard]({{site.baseurl}}/media/Tu RMSM B.JPG){:.img-right}
 A talk and slide presentation by Le Anh Tu Packard, macroeconomist and frequent consultant to the Vietnamese government.
 
 On January 25, 2005, Le Anh Tu Packard, consultant to the World Bank and chief technical consultant to the Vietnamese Ministry of Finance on the reform of State Owned Enterprises, presented a talk on the gender dimensions of economic reform in Vietnam to the Center for Vietnamese Philosophy, Culture, and Society.
@@ -36,3 +35,16 @@ On January 25, 2005, Le Anh Tu Packard, consultant to the World Bank and chief t
 The talk examined the question why Vietnam is an interesting case study of the intersection of gender and economic reform, issues of globalization, the status of women, cultural views of gender equality and inequality, the effects of Doi Moi reforms and foreign policy initiatives, policy issues, positive and negative outcomes, social welfare, access to credit, and prospects for the future.
 
 The gender and macroeconomics research supporting Le Anh Tu Packard's work was commissioned by the United Nations Research Institute for Social Development (UNRISD) and will be published as a UNRISD Occasional Paper.
+
+### Nguyen Huu Thai's Lecture on Vietnamese Architecture
+**_"Between Globalization and Identity Crisis"_**
+Nguyen Huu Thai, Vietnamese Architectural Association. December 1, 2004. Co-sponsored by the Society of Fellows in the Humanities. 
+
+On December 1, 2004, Nguyen Huu Thai, a member of the Vietnamese Architectural Association, presented an illustrated talk, "Vietnamese Architecture: Between Globalization and Identity Crisis," co-sponsored by the Center for Vietnamese Philosophy, Culture, and Society and the Society of Fellows in the Humanities. The talk was held in the 10th floor conference room of the Society of Fellows, Gladfelter Hall.
+
+**Mr. Nguyen Huu Thai discussed three main points:**
+- Traditional Vietnamese architecture exemplifies harmony with nature. Buildings are on a human scale, typically surrounded by natural beauty, stressing the elements of earth, water, and greenery and the relationship among sky, earth, and human beings.
+
+- Western influences have upset this harmony, introducing contradictions and antagonisms between rich v. poor, developed v. underdeveloped, and urban v. rural. The result is an architecture in disarray, especially in urban areas where new high rise buildings may be described as "alien nails implanted in the traditional city's body." In this way, Vietnamese architecture faces an identity crisis.
+
+- The hope for Vietnamese architecture lies in sustainable architecture with new design criteria: "the modernization of local architecture and the localization of modern architecture," the coming together of the traditional Vietnamese concepts of sky, earth, and human beings with western concepts of society, nature, and human beings.

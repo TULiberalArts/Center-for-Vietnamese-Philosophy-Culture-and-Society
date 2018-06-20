@@ -5,7 +5,8 @@ title: Center for Vietnamese Philosophy, Culture, and Society at Temple Universi
 baseurl: /center-for-vietnamese-philosophy-culture-and-society
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
-
+# url spits sitemap
+url: https://www.cla.temple.edu/center-for-vietnamese-philosophy-culture-and-society
 
 # Program Information
 # Short tagline for tweets (<100 characters)

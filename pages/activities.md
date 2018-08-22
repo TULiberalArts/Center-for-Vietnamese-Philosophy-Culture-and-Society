@@ -52,5 +52,3 @@ On December 1, 2004, Nguyen Huu Thai, a member of the Vietnamese Architectural A
 - Western influences have upset this harmony, introducing contradictions and antagonisms between rich v. poor, developed v. underdeveloped, and urban v. rural. The result is an architecture in disarray, especially in urban areas where new high rise buildings may be described as "alien nails implanted in the traditional city's body." In this way, Vietnamese architecture faces an identity crisis.
 
 - The hope for Vietnamese architecture lies in sustainable architecture with new design criteria: "the modernization of local architecture and the localization of modern architecture," the coming together of the traditional Vietnamese concepts of sky, earth, and human beings with western concepts of society, nature, and human beings.
-
-## Conferences 

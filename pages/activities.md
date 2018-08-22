@@ -14,10 +14,11 @@ sidebar: false
 
 ### International Conference on Education and Social Integration
 - Ho Chi Minh City, August 10-11, 2016<br>
-A mini-Conference on Nôm Studies, May 9-10, 2015 at the Center<br>
+
+### A mini-Conference on Nôm Studies, May 9-10, 2015 at the Center<br>
 - [Open Call for Papers](https://liberalarts.temple.edu/sites/liberalarts/files/OPEN%20CALL%20FOR%20PAPERS.pdf)
-- [Abstracts]()
-- [Program]()
+- [Abstracts](https://liberalarts.temple.edu/sites/liberalarts/files/ABSTRACTS.pdf)
+- [Program](https://liberalarts.temple.edu/sites/liberalarts/files/A%20mini-Conference%20at%20Temple%20University.pdf)
 
 ### Conference: Women and Development in Vietnam—A Workshop at Temple
 - May 21-22, 2014 with the support of Luce Foundation<br>
@@ -28,4 +29,3 @@ Weigley Room, Gladfelter Hall, Temple University<br>
 
 ### Three Lectures by Prof. Sophia Quinn-Judge<br>
 - March 7-14, 2014: at Université Paris Diderot – Paris 7<br>
-

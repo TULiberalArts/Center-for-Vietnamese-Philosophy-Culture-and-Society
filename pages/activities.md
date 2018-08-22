@@ -1,16 +1,20 @@
 ---
-title: Activities
+# global predefined variables
+layout: tla_page
 permalink: /activities/
-layout: page
+published: false
+# meta-data variables
+title: Activities
+description: >-
 keywords: ''
-description: >- 
-published: true
+# custom variables
+sidebar: false
 ---
 ## Lectures 
 
+![Philip Short]({{site.baseurl}}/media/Short2_000.jpg){:.img-right}
 ### Philip Short's Lecture on Pol Pot<br>
 **"_Pol Pot: History of a Nightmare_"**<br>
-![Philip Short]({{site.baseurl}}/media/Short2_000.jpg){:.img-right}
 Philip Short, former BBC correspondent and author of a major biography of Mao Zedong, spoke about his latest book about Pol Pot. Recent Cambodian history is closely intertwined with Vietnamese events, so this is a topic of great concern for students of contemporary Vietnam. March 21, 2005. Co-sponsored by the Center for the Study of Force and Diplomacy.
 
 On March 21, 2005, Philip Short, former foreign correspondent for The Times (London), The Economist, the BBC, and author of Mao: A Life and Pol Pot: The History of a Nightmare, presented a talk on the complex factors that led to the horrific brutality of the Pol Pot years in Cambodia during which more than a million Cambodians were executed or died from starvation.

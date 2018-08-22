@@ -22,8 +22,7 @@ Chữ Nôm (including chữ Hán Việt) devised "ideographically" to represent 
 
 The Nôm Studies is a research project in text documents written in the national ideographic script called chữ Nôm in Vietnam. This project is part of the activities of the Center for Vietnamese Philosophy, Culture & Society of Temple University.
 
-## Resources
-**WE HAVE TO FIGURE OUT WHAT WE ARE GOING TO DO WITH THIS PAGE http://www.cla.temple.edu/vietnamese_center/nomstudies/resources.html . MOST OF THE URL'S ARE BROKEN AND THE PDFS/SLIDESHOWS NEED TO BE MIGRATED INTO DIFFERENT URLS OR HOUSED ELSEWHERE**
+- **Additional Resources(https://liberalarts.temple.edu/sites/liberalarts/files/Resources.pdf)**
 
 ## Other Nôm Research Links
 Organizations and institutions doing research in Nôm. Please [contact us](mailto:nhan@temple.edu) if you would like to link with this site.

@@ -22,7 +22,7 @@ _Syliane Malinowski-Charles, Temple University_
 - **History of Vietnamese Philosophical Thought (Lịch sử tư tưởng triết học Việt Nam)** 
 _Nguyễn Hùng Hậu, Hồ Chí Minh National Political Academy_		
 
-–	**(Vietnamese Philosophy from Nôm Manuscripts (Triết học Việt Nam qua văn bản Nôm)**
+- **(Vietnamese Philosophy from Nôm Manuscripts (Triết học Việt Nam qua văn bản Nôm)**
 _Ngô Thanh Nhàn, Temple University_		 
 
 - **Metaphysics and Epistemology (Siêu hình học và nhận thức luận)**
@@ -33,7 +33,7 @@ _Shelley Wilcox, San Francisco State University_
 –	**A Historical Sketch of the Vietnamese Ethical Thought (Một vài nét về lịch sử tư tưởng triết học đạo đức của Việt Nam)**
 _Nguyễn Thế Kiệt, Hồ Chí Minh National Political Academy_	
 
-–	**Political Philosophy in the Period of Building an Independent and Self-determined Vietnamese Feudalist Nation (Triết học chính trị thời kỳ xây dựng quốc gia phong kiến Việt Nam độc lập tự chủ)**
+- **Political Philosophy in the Period of Building an Independent and Self-determined Vietnamese Feudalist Nation (Triết học chính trị thời kỳ xây dựng quốc gia phong kiến Việt Nam độc lập tự chủ)**
 _Prof.Dr. Trần Phúc Thăng, Hồ Chí Minh National Political Academy_<br>			
 _Gs.Ts. Trần Phúc Thăng, Hồ Chí Minh National Political Academy_
 

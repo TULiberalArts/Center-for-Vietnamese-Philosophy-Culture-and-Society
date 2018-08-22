@@ -1,5 +1,3 @@
-- text: Courses
-  url: /courses/
 - text: Handbook On Philosophy
   url: /handbook-on-philosophy/
 - text: Visual Anthropology
@@ -10,3 +8,5 @@
   url:  /activities/
 - text: Staff
   url: /staff/
+- text: Fellows
+  url: /fellows/  

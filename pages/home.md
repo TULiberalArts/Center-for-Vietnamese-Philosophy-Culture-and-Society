@@ -5,13 +5,13 @@ permalink: /
 published: true
 # meta-data variables
 title: Home
-description: >
+description: >-
 keywords: ''
 # custom variables
 sidebar: false
 feature: true
 feature-title: >-
-  A national center for scholarly research, educational training and mutual understanding.
+ A national center for scholarly research, educational training and mutual understanding.
 feature-image: media/center_banner_1500.jpg
 feature-body: 
 ---

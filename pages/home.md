@@ -6,7 +6,7 @@ published: true
 # meta-data variables
 title: Home
 description: >
-keywords: 'major, minor, academic offerings, criminal justice students'
+keywords: ''
 # custom variables
 sidebar: false
 feature: true

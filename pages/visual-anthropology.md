@@ -1,16 +1,21 @@
 ---
-title: Visual Anthropology
+# global predefined variables
+layout: tla_page
 permalink: /visual-anthropology/
-layout: page
-keywords: ''
-description: >- 
 published: true
----
-**NEED CONTENT FOR THIS PAGE TO DISCUSS WHAT THIS PHOTO GALLERY ENTAILS AND THE CONTENTS OF THIS PAGE** 
+# meta-data variables
+title: Visual Anthropology
+description: >-
+keywords: ''
+# custom variables
+sidebar: false
+--- 
 ## Visual Anthropology Initiative For Vietnam: Sáng kiến Hình ảnh Nhân học
 Professor Jayasinhji Jhala (Director), Dr. Lauren Meeker, Dr. Nguyen Bich Hien, Lauren Semmel, Dr. Philip Alperson and Dr. Sophie Quinn-Judge
 
 ![Visual Anthropology]({{site.baseurl}}/media/resized vai_viet_2007.jpg){:.img-center}
+
+
 
 ___
 

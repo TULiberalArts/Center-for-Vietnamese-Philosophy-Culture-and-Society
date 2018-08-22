@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_page
 permalink: /activities/
-published: false
+published: true
 # meta-data variables
 title: Activities
 description: >-

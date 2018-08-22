@@ -1,11 +1,15 @@
 ---
-title: Nôm Studies
+# global predefined variables
+layout: tla_page
 permalink: /nôm-studies/
-layout: page
-keywords: ''
+published: true
+# meta-data variables
+title: Nôm Studies
 description: >-
   A research project in the Vietnamese Nôm cultural heritage.
-published: true
+keywords: ''
+# custom variables
+sidebar: false
 ---
 ## The 喃學 Nôm Studies Project
 ![Nôm Studies Project]({{site.baseurl}}/media/resized Nom Studies.jpg){:.img-right}

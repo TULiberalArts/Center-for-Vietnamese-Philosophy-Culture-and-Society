@@ -89,17 +89,4 @@ _Dr. Trương Quốc Chinh, Administrative Academy & Dr. Nguyễn Thuý Vân, Un
 _Assoc. Prof., Dr. Trần Hữu Quang, Sociology, Center for Information, Institute for Sustainable Development in Southern Vietnam (Academy of Social Sciences)_<br>		
 _Dr. Trần Hữu Quang, Xã hội học, Trung tâm Thông tin, Viện Phát_ 
 
-
-
-
-
-
-
-
-
-
-
 The Center for Vietnamese Philosophy, Culture & Society gratefully acknowledges the support of the Ford Foundation and the Office of the Vice-President for Research at Temple University for the production of this handbook.
-
- 
-http://www.cla.temple.edu/vietnamese_center/handbook/handbook.htm 

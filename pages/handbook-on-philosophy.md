@@ -111,3 +111,10 @@ _Assoc. Prof., Dr. Trần Hữu Quang, Sociology, Center for Information, Instit
 _Dr. Trần Hữu Quang, Xã hội học, Trung tâm Thông tin, Viện Phát_ 
 
 The Center for Vietnamese Philosophy, Culture & Society gratefully acknowledges the support of the Ford Foundation and the Office of the Vice-President for Research at Temple University for the production of this handbook.
+
+## Vietnamese Philosophy
+
+The following pdf's feature scanned texts from difficult-to-obtain books related to Vietnamese philosophy. It is managed by Temple graduate student in Philosophy, Luong Thu Hien. 
+
+- [Nguyen Van Trung](https://liberalarts.temple.edu/sites/liberalarts/files/CaTungThanXacbyNguyenVanTrung1.pdf)
+- [Tran Thai Dinh](https://liberalarts.temple.edu/sites/liberalarts/files/HoancanhnhungnguoicambutmienNamtruocvasau1963by.pdf)

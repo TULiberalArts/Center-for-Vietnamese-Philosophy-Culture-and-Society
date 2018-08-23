@@ -15,32 +15,7 @@ feature-title: >-
 feature-image: media/center_banner_1500.jpg
 feature-body: 
 ---
+![Mytho]({{site.baseurl}}/media/resized Mytho_000.jpg){:.img-right}
 The Center for Vietnamese Philosophy, Culture, and Society at Temple University was founded in September, 2004. The Center sponsors a range of programs on Vietnam's rich heritage of philosophy and culture including conferences, colloquia, classes, a research library and courses in the Vietnamese language. The Center also coordinates scholarly and educational visits. The Center is currently participating in a multi-year faculty seminar program involving the Departments of Philosophy at Temple University and at the Ho Chi Minh National Political Academy in Hanoi. The programs have taken place in Hanoi, Philadelphia, Washington, D.C., and New York City.
 
 ___
-
-<div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html 
-    title="NEED CONTENT" 
-    content=" " 
-    image="" 
-    button-link=" " 
-    button-text="Learn More" %}
-  </div>
-  <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html 
-      title="NEED CONTENT" 
-      content=" " 
-      image="" 
-      button-link=" " 
-      button-text="Learn More" %}
-    </div>
-    <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html 
-        title="NEED CONTENT" 
-        content=" " 
-        image="" 
-        button-link=" " 
-        button-text="Learn More" %}
-      </div>
-</div>

@@ -12,6 +12,7 @@ sidebar: false
 ---
 ![Dr. Kimberly Ann Goyette]({{site.baseurl}}/media/cropped 160919_KimberlyGoyette-30.jpg){:.img-right}
 **[Dr. Kimberly Ann Goyette, Director](https://liberalarts.temple.edu/academics/faculty/goyette-kimberly)**<br> 
+
 Kimberly Ann Goyette became director of the Center for Vietnamese Philosophy, Culture, and Society in 2011, after being acting director the previous year. Kim studies higher education in Vietnam and in Southeast Asia, more broadly. Kim is an associate professor in the Department of Sociology at Temple University.
 
 Kimberly A. Goyette is an associate professor of sociology at Temple University.  Her areas of specialization include education, race and ethnicity, stratification, immigration, and demography.  Her recent work, published in Social Science Research and the Journal of Higher Education, has focused on whether social background and occupational expectations account for rising college expectations over time, and how social background relates to choice of college majors.  Goyette has served as a reviewer for numerous sociology and education journals, most frequently for Sociology of Education, and has been chair of the David Lee Stevenson Award for the Sociology of Education section of the American Sociological Association.
@@ -32,6 +33,7 @@ ___
  
 ![Dr. Philip Alperson]({{site.baseurl}}/media/cropped Phil_2007.jpg){:.img-right} 
 **[Dr. Philip Alperson, Founding Director](https://liberalarts.temple.edu/academics/faculty/alperson-philip-0)**<br> 
+
 Professor Alperson’s main interests are in aesthetics, the philosophy of the arts, theory of culture, value theory, and theories of interpretation and criticism, with special interests in the philosophy of music and philosophical questions concerning creativity, performance, and improvisation. Professor Alperson was the editor of The Journal of Aesthetics and Art Criticism, the journal of the American Society of Aesthetics, from 1993 – 2003 and is the General Editor of the Blackwell Series, Foundations of Aesthetics. He is currently at work on a book on the philosophy of music. He is the Founding Director of the Center for Vietnamese Philosophy, Culture, and Society and was the Founding Director of the Center for the Humanities at Temple. He directs the Department's faculty exchange program with Vietnam, leading yearly seminars in Hanoi. He is also a sometime jazz musician.
 
 ___

@@ -20,7 +20,6 @@ Professor Alperson’s main interests are in aesthetics, the philosophy of the a
 
 ___
 
-![Dr. Marcus Bingenheimer]({{site.baseurl}}/media/){:.img-right} 
 **Dr. Marcus Bingenheimer 馬德偉**<br> 
 **_Assistant Professor, Department of Religion_**<br> 
 
@@ -35,7 +34,6 @@ For more information, please see a sample of projects, book, article and online 
 
 ___
 
-![Dr. Nguyễn Thị Điểu]({{site.baseurl}}/media/){:.img-right} 
 **[_Dr. Nguyễn Thị Điểu_](mailto:dieunguy@temple.edu)**<br>
 **_Associate Professor of History_**<br>
 
@@ -50,7 +48,7 @@ Culture and Customs of Vietnam (with Mark McLeod, Greenwood, 2001), The Mekong R
 
 ___
 
-![Nguyễn Thị Hồng Đào]({{site.baseurl}}/media/){:.img-right} 
+![Nguyễn Thị Hồng Đào]({{site.baseurl}}/media/resized NgThi-HongDao-1200.jpg){:.img-right} 
 **[_Nguyễn Thị Hồng Đào_](mailto:nth.dao@ired.edu.vn)**<br>
 **_Operation Manager, Institute for Research on Educational Development (IRED)_**<br>
 
@@ -76,7 +74,7 @@ Nguyễn, Đào T.H. (2004). Oversea study from global look. An Giang University
 
 ___
 
-![Dr. Mary Hawkesworth]({{site.baseurl}}/media/){:.img-right} 
+![Dr. Mary Hawkesworth]({{site.baseurl}}/media/resized mary_hawkesworth_2003.jpg){:.img-right} 
 **[_Mary Hawkesworth_](mailto:mhawkes@rci.rutgers.edu)**<br>
 **_Department of Women's and Gender Studies, Rutgers University_**<br>
 
@@ -86,7 +84,7 @@ Under the auspices of the Temple Center for Vietnamese Philosophy, Culture and S
 
 ___
 
-![Trương Thị Thuý Hằng]({{site.baseurl}}/media/){:.img-right} 
+![Trương Thị Thuý Hằng]({{site.baseurl}}/media/resized thuyhang_300.jpg){:.img-right} 
 **[_Trương Thị Thuý Hằng_](mailto:thuyhangihs@gmail.com)**<br>
 **_National Institute for Educational Management_**<br> 
 
@@ -128,7 +126,7 @@ Articles and papers: About 100 articles in reviews, journals and books, in works
 
 ___
 
-![Dr. Lương Thu Hiền]({{site.baseurl}}/media/){:.img-right} 
+![Dr. Lương Thu Hiền]({{site.baseurl}}/media/resized LuongThuHien_200.jpg){:.img-right} 
 **[_Dr. Lương Thu Hiền_](mailto:hluong@temple.edu)**<br>
 
 She is a founding member of the Ford Foundation Project for Philosophical Development in Vietnam, parts of which are the English-Vietnamese Handbook on Philosophy and Political Economy, and series of international conferences in philosophy.
@@ -143,7 +141,7 @@ She has published in philosophical journals including The Journal of Philosophy 
  
 ___
 
-![Dr.Nguyễn Vũ Hảo]({{site.baseurl}}/media/){:.img-right} 
+![Dr.Nguyễn Vũ Hảo]({{site.baseurl}}/media/resized Dr_Nguyen_Vu_Hao.jpg){:.img-right} 
 **[_Dr.Nguyễn Vũ Hảo, Fulbright Scholar 2010-2011_](nguyenvuhao@hotmail.com)**<br>
 **_Vice-Dean Faculty of Philosophy, University of Social Sciences & Humanities Vietnam National University_**<br>
 
@@ -178,7 +176,7 @@ He was a co-organizer of international and national Philosophical Conferences at
 
 ___
 
-![Dr. Jayasinhji Jhala]({{site.baseurl}}/media/){:.img-right}
+![Dr. Jayasinhji Jhala]({{site.baseurl}}/media/resized Jayasinhji Jhala_0.jpg){:.img-right}
 **[_Dr. Jayasinhji Jhala_](https://liberalarts.temple.edu/academics/faculty/jhala-jayasinhji)**<br>
 **_Associate Professor, Department of Anthropology_**<br>
 
@@ -199,7 +197,7 @@ Dr. Kelly received her MA and PhD from the University of Wisconsin – Madison a
 
 ___
 
-![Dr. Lauren Meeker]({{site.baseurl}}/media/){:.img-right}
+![Dr. Lauren Meeker]({{site.baseurl}}/media/resized LaurenMeeker.jpg){:.img-right}
 **_Dr. Lauren Meeker_**<br>
 
 In 2007 Dr. Lauren Meeker became a Research Fellow of the Center for Vietnamese Philosophy, Culture and Society.  She received her Ph.D. in 2007 from Columbia University for her dissertation on quan ho singing: Mediating the Folk: television and the representation of traditional culture in Vietnam.  She was an ACLS International Dissertation Field Research Fellow, as well as a Fulbright-Hays Fellow in Vietnam.
@@ -208,7 +206,7 @@ She is collaborating with Temple’s Vietnam Center on a long-term project to fi
 
 __
 
-![Dr. Ngô Thanh Nhàn]({{site.baseurl}}/media/){:.img-right}
+![Ngô Thanh Nhàn]({{site.baseurl}}/media/cropped nhan_4x6.jpg){:.img-right} 
 **_Dr. Ngô Thanh Nhàn_**<br>
 
 Dr. Ngô Thanh Nhàn as Visiting Research Scholar, from September 1, 2006. Dr Nhàn will be working on projects connected to the digitizing of Nôm documents, in particular the collection of Hán Nôm documents held by the Institute of Social Science Information in Hanoi and village records with the General Library of Thừa Thiên-Huế in 2014. Since 2016 he is involving in a graphic representation of Vietnamese folk music.
@@ -221,7 +219,7 @@ See more information on the Preservation of Vietnam's Nôm Script and the Center
 
 ___
 
-![Phạm Thanh Nghị]({{site.baseurl}}/media/){:.img-right}
+![Phạm Thanh Nghị]({{site.baseurl}}/media/resized Pham-Thanh-Nghi.jpg){:.img-right}
 **[_Professor Phạm Thanh Nghị_](mailto:ptnghi2008@gmail.com)**<br>
 **_Professor, Institute of Psychology Vietnam Academy of Social Sciences_**<br>
 
@@ -233,7 +231,7 @@ Phạm Thanh Nghị is a principal investigator for the World Values Survey 2001
 
 ___
 
-![Dave Paulson]({{site.baseurl}}/media/){:.img-right}
+![Dave Paulson]({{site.baseurl}}/media/resized DavePaulson_4.jpg){:.img-right}
 **[_Dave Paulson_](mailto:Dave.Paulson@temple.edu)**<br>
 **_PhD and University Fellow, Department of Anthropology_**<br>
 
@@ -241,7 +239,7 @@ I am a doctoral candidate in the Department of Anthropology with a specializatio
 
 ___
 
-![Tara Thu Phan]({{site.baseurl}}/media/){:.img-right}
+![Tara Thu Phan]({{site.baseurl}}/media/resized AnhThu_headshot_04152017.jpg){:.img-right}
 **[_Tara Thu Phan_](mailto:tuj67921@temple.edu)**<br>
 **_M.A. Music Education, Columbia University Teachers College_**<br>
 
@@ -278,7 +276,7 @@ three regional "Songs of the Starling, presentation at the 46th Annual Mid-Atlan
 
 ___
 
-![Dr. Trần Hàn Giang]({{site.baseurl}}/media/){:.img-right}
+![Dr. Trần Hàn Giang]({{site.baseurl}}/media/resized tranhangiang.jpg){:.img-right}
 **[_Dr. Trần Hàn Giang_](https://liberalarts.temple.edu/academics/faculty/jhala-jayasinhji)**<br>
 **_Visiting Fullbright Scholar, 2006-2007_**<br>
 
@@ -286,7 +284,7 @@ Dr. Trần Hàn Giang, former Director of the Institute of Family and Gender Stu
 
 ___
 
-![Dr. Lu Zhang]({{site.baseurl}}/media/){:.img-right}
+![Dr. Lu Zhang]({{site.baseurl}}/media/resized Lu_Zhang_750.jpg){:.img-right}
 **[_Dr. Lu Zhang_](https://liberalarts.temple.edu/academics/faculty/zhang-lu)**<br>
 **_Associate Professor, Department of Anthropology_**<br>
 

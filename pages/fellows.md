@@ -204,7 +204,7 @@ In 2007 Dr. Lauren Meeker became a Research Fellow of the Center for Vietnamese 
 
 She is collaborating with Temple’s Vietnam Center on a long-term project to film traditional folk festivals in Vietnam.
 
-__
+___
 
 ![Ngô Thanh Nhàn]({{site.baseurl}}/media/cropped nhan_4x6.jpg){:.img-right} 
 **_Dr. Ngô Thanh Nhàn_**<br>

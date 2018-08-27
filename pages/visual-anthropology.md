@@ -35,10 +35,6 @@ ___
 
 ___
 
-![CSCS]({{site.baseurl}}/media/resized- vai_349_cdt_day1_14.jpg){:.img-center}
-
-___
-
 ![CSCS]({{site.baseurl}}/media/resized- vai_304_cdt_day1_27.jpg){:.img-center}
 
 ___

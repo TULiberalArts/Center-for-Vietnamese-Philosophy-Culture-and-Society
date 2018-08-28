@@ -11,7 +11,7 @@ keywords: ''
 sidebar: false
 feature: true
 feature-title: >-
-feature-image: media/center_banner_1500.jpg
+feature-image: media/vietnamhero.png
 feature-body:
 promotion-table: false
 ---

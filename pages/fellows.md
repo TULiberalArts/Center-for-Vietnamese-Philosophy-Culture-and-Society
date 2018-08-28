@@ -13,7 +13,7 @@ sidebar: false
 ## Center for Vietnamese Philosophy and Society Fellows
 
 ![Dr. Philip Alperson]({{site.baseurl}}/media/cropped Phil_2007.jpg){:.img-right} 
-**[_Dr. Philip Alperson, Senior Fellow_](mailto:alperson@temple.edu)_**<br>
+**[_Dr. Philip Alperson, Senior Fellow_](mailto:alperson@temple.edu)**<br>
 **_Director, Center for Vietnamese Philosophy, Culture & Society, (2004-2011)_**<br>
 
 Professor Alperson’s main interests are in aesthetics, the philosophy of the arts, theory of culture, value theory, and theories of interpretation and criticism, with special interests in the philosophy of music and philosophical questions concerning creativity, performance, and improvisation. Professor Alperson was the editor of The Journal of Aesthetics and Art Criticism, the journal of the American Society of Aesthetics, from 1993 – 2003 and is the General Editor of the Blackwell Series, Foundations of Aesthetics. He is currently at work on a book on the philosophy of music. He is the Founding Director of the Center for Vietnamese Philosophy, Culture, and Society and was the Founding Director of the Center for the Humanities at Temple. He directs the Department's faculty exchange program with Vietnam, leading yearly seminars in Hanoi. He is also a sometime jazz musician.

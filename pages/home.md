@@ -12,7 +12,8 @@ sidebar: false
 feature: true
 feature-title: >-
 feature-image: media/center_banner_1500.jpg
-feature-body: 
+feature-body:
+promotion-table: false
 ---
 ![Mytho]({{site.baseurl}}/media/resized 2 Mytho_000.jpg){:.img-right}
 ## A National Center for Scholarly Research, Educational Training and Mutual Understanding

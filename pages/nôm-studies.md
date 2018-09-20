@@ -12,7 +12,7 @@ keywords: ''
 sidebar: false
 ---
 ## The 喃學 Nôm Studies Project
-![Nôm Studies Project]({{site.baseurl}}/media/resized Nom Studies.jpg){:.img-right}
+![Nôm Studies Project]({{site.baseurl}}/media/resized Nom Studies.jpg){:.responsive-img .img-right}
 Vietnam has two writing systems: the chữ quốc ngữ and chữ Nôm. Chữ quốc ngữ uses a roman alphabet with accents. Chữ Nôm, Hán Việt included, uses ideograms, similar to Chinese, Korean and Japanese. Chữ Nôm was used in Vietnam for more than 1,000 years before the 1920's, when it was replaced by chữ quốc ngữ. Chữ Nôm was neglected for the next 70 years.
 Hundreds of thousands of documents exist in chữ Nôm, the ideographic national script used in Vietnam since the country's independence from China in 939 AD. These documents – literature, medicine, drama, music, court records, philosophy, village records, and royal proclamations among them – are now in danger of further destruction after more than 125 years of warfare, and hundreds of years of monsoons, pillage and neglect. In addition, major Nôm documents have been found languishing, unidentified, in many European and East Asian libraries, museums, and private holdings, as well as libraries and private homes in Vietnam. Most of these invaluable texts are in grave danger of becoming lost forever. The preservation of Nôm heritage is a desperate race against time.
 

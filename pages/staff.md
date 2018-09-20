@@ -10,7 +10,7 @@ keywords: ''
 # custom variables
 sidebar: false
 ---
-![Dr. Kimberly Ann Goyette]({{site.baseurl}}/media/cropped 160919_KimberlyGoyette-30.jpg){:.img-right}
+![Dr. Kimberly Ann Goyette]({{site.baseurl}}/media/cropped 160919_KimberlyGoyette-30.jpg){:.responsive-img .img-right}
 **[Dr. Kimberly Ann Goyette, Director](https://liberalarts.temple.edu/academics/faculty/goyette-kimberly)**<br> 
 
 Kimberly Ann Goyette became director of the Center for Vietnamese Philosophy, Culture, and Society in 2011, after being acting director the previous year. Kim studies higher education in Vietnam and in Southeast Asia, more broadly. Kim is an associate professor in the Department of Sociology at Temple University.
@@ -21,7 +21,7 @@ Recently, Goyette has started a research project on higher education in Vietnam,
 
 ___
 
-![Dr. Kristy Kelly]({{site.baseurl}}/media/cropped kriskelly.jpg){:.img-right}
+![Dr. Kristy Kelly]({{site.baseurl}}/media/cropped kriskelly.jpg){:.responsive-img .img-right}
 **[Dr. Kristy Kelly, Associate Director](mailto:kek72@drexel.edu)**<br>  
 Kristy Kelly (University of Wisconsin – Madison, PhD) is a sociologist specializing in gender and development, policy and politics, transnational feminisms, gender mainstreaming, and social transformation. She uses gender and education as critical lenses to examine social change in Southeast Asia, primarily in Vietnam. She is currently assistant professor of global and international education at Drexel University where she teaches courses on gender and education, education diplomacy, the political economy of education reform, and qualitative research methods. She is simultaneously affiliated with the Weatherhead East Asian Institute at Columbia University, where she served as Postdoctoral Fellow in Modern Southeast Asian Studies (2010-2012).
 
@@ -31,14 +31,14 @@ Dr. Kelly received her MA and PhD from the University of Wisconsin – Madison a
 
 ___
  
-![Dr. Philip Alperson]({{site.baseurl}}/media/cropped Phil_2007.jpg){:.img-right} 
+![Dr. Philip Alperson]({{site.baseurl}}/media/cropped Phil_2007.jpg){:.responsive-img .img-right}
 **[Dr. Philip Alperson, Founding Director](https://liberalarts.temple.edu/academics/faculty/alperson-philip-0)**<br> 
 
 Professor Alperson’s main interests are in aesthetics, the philosophy of the arts, theory of culture, value theory, and theories of interpretation and criticism, with special interests in the philosophy of music and philosophical questions concerning creativity, performance, and improvisation. Professor Alperson was the editor of The Journal of Aesthetics and Art Criticism, the journal of the American Society of Aesthetics, from 1993 – 2003 and is the General Editor of the Blackwell Series, Foundations of Aesthetics. He is currently at work on a book on the philosophy of music. He is the Founding Director of the Center for Vietnamese Philosophy, Culture, and Society and was the Founding Director of the Center for the Humanities at Temple. He directs the Department's faculty exchange program with Vietnam, leading yearly seminars in Hanoi. He is also a sometime jazz musician.
 
 ___
 
-![Ngô Thanh Nhàn]({{site.baseurl}}/media/cropped nhan_4x6.jpg){:.img-right} 
+![Ngô Thanh Nhàn]({{site.baseurl}}/media/cropped nhan_4x6.jpg){:.responsive-img .img-right}
 **[Ngô Thanh Nhàn, Adjunct Associate Director](mailto:nhane@temple.edu)**<br>  
 Dr. Nhàn is a research fellow at the Center for Vietnamese Philosophy, Culture & Society, Temple University since September 2006. He received a B.A. and M.A. in Theoretical Linguistics at San José State University and a Ph.D. in Linguistics from the New York University (1984).
 

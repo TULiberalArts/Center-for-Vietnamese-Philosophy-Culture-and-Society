@@ -12,7 +12,7 @@ sidebar: false
 ---
 ## Center for Vietnamese Philosophy and Society Fellows
 
-![Dr. Philip Alperson]({{site.baseurl}}/media/cropped Phil_2007.jpg){:.img-right} 
+![Dr. Philip Alperson]({{site.baseurl}}/media/cropped Phil_2007.jpg){:.responsive-img .img-right}
 **[_Dr. Philip Alperson, Senior Fellow_](mailto:alperson@temple.edu)**<br>
 **_Director, Center for Vietnamese Philosophy, Culture & Society, (2004-2011)_**<br>
 
@@ -48,7 +48,7 @@ Culture and Customs of Vietnam (with Mark McLeod, Greenwood, 2001), The Mekong R
 
 ___
 
-![Nguyễn Thị Hồng Đào]({{site.baseurl}}/media/resized NgThi-HongDao-1200.jpg){:.img-right} 
+![Nguyễn Thị Hồng Đào]({{site.baseurl}}/media/resized NgThi-HongDao-1200.jpg){:.responsive-img .img-right}
 **[_Nguyễn Thị Hồng Đào_](mailto:nth.dao@ired.edu.vn)**<br>
 **_Operation Manager, Institute for Research on Educational Development (IRED)_**<br>
 
@@ -74,7 +74,7 @@ Nguyễn, Đào T.H. (2004). Oversea study from global look. An Giang University
 
 ___
 
-![Dr. Mary Hawkesworth]({{site.baseurl}}/media/resized mary_hawkesworth_2003.jpg){:.img-right} 
+![Dr. Mary Hawkesworth]({{site.baseurl}}/media/resized mary_hawkesworth_2003.jpg){:.responsive-img .img-right}
 **[_Mary Hawkesworth_](mailto:mhawkes@rci.rutgers.edu)**<br>
 **_Department of Women's and Gender Studies, Rutgers University_**<br>
 
@@ -84,7 +84,7 @@ Under the auspices of the Temple Center for Vietnamese Philosophy, Culture and S
 
 ___
 
-![Trương Thị Thuý Hằng]({{site.baseurl}}/media/resized thuyhang_300.jpg){:.img-right} 
+![Trương Thị Thuý Hằng]({{site.baseurl}}/media/resized thuyhang_300.jpg){:.responsive-img .img-right}
 **[_Trương Thị Thuý Hằng_](mailto:thuyhangihs@gmail.com)**<br>
 **_National Institute for Educational Management_**<br> 
 
@@ -126,7 +126,7 @@ Articles and papers: About 100 articles in reviews, journals and books, in works
 
 ___
 
-![Dr. Lương Thu Hiền]({{site.baseurl}}/media/resized LuongThuHien_200.jpg){:.img-right} 
+![Dr. Lương Thu Hiền]({{site.baseurl}}/media/resized LuongThuHien_200.jpg){:.responsive-img .img-right} 
 **[_Dr. Lương Thu Hiền_](mailto:hluong@temple.edu)**<br>
 
 She is a founding member of the Ford Foundation Project for Philosophical Development in Vietnam, parts of which are the English-Vietnamese Handbook on Philosophy and Political Economy, and series of international conferences in philosophy.
@@ -141,7 +141,7 @@ She has published in philosophical journals including The Journal of Philosophy 
  
 ___
 
-![Dr.Nguyễn Vũ Hảo]({{site.baseurl}}/media/resized Dr_Nguyen_Vu_Hao.jpg){:.img-right} 
+![Dr.Nguyễn Vũ Hảo]({{site.baseurl}}/media/resized Dr_Nguyen_Vu_Hao.jpg){:.responsive-img .img-right}
 **[_Dr.Nguyễn Vũ Hảo, Fulbright Scholar 2010-2011_](nguyenvuhao@hotmail.com)**<br>
 **_Vice-Dean Faculty of Philosophy, University of Social Sciences & Humanities Vietnam National University_**<br>
 
@@ -176,7 +176,7 @@ He was a co-organizer of international and national Philosophical Conferences at
 
 ___
 
-![Dr. Jayasinhji Jhala]({{site.baseurl}}/media/resized Jayasinhji Jhala_0.jpg){:.img-right}
+![Dr. Jayasinhji Jhala]({{site.baseurl}}/media/resized Jayasinhji Jhala_0.jpg){:.responsive-img .img-right}
 **[_Dr. Jayasinhji Jhala_](https://liberalarts.temple.edu/academics/faculty/jhala-jayasinhji)**<br>
 **_Associate Professor, Department of Anthropology_**<br>
 
@@ -186,7 +186,7 @@ In addition, I am concerned with visual ethnographers, their biographies and the
 
 ___
 
-![Dr. Kristy Kelly]({{site.baseurl}}/media/cropped kriskelly.jpg){:.img-right}
+![Dr. Kristy Kelly]({{site.baseurl}}/media/cropped kriskelly.jpg){:.responsive-img .img-right}
 **[Dr. Kristy Kelly, Associate Director](mailto:kek72@drexel.edu)**<br>  
 
 Kristy Kelly (University of Wisconsin – Madison, PhD) is a sociologist specializing in gender and development, policy and politics, transnational feminisms, gender mainstreaming, and social transformation. She uses gender and education as critical lenses to examine social change in Southeast Asia, primarily in Vietnam. She is currently assistant professor of global and international education at Drexel University where she teaches courses on gender and education, education diplomacy, the political economy of education reform, and qualitative research methods. She is simultaneously affiliated with the Weatherhead East Asian Institute at Columbia University, where she served as Postdoctoral Fellow in Modern Southeast Asian Studies (2010-2012).
@@ -197,7 +197,7 @@ Dr. Kelly received her MA and PhD from the University of Wisconsin – Madison a
 
 ___
 
-![Dr. Lauren Meeker]({{site.baseurl}}/media/resized LaurenMeeker.jpg){:.img-right}
+![Dr. Lauren Meeker]({{site.baseurl}}/media/resized LaurenMeeker.jpg){:.responsive-img .img-right}
 **_Dr. Lauren Meeker_**<br>
 
 In 2007 Dr. Lauren Meeker became a Research Fellow of the Center for Vietnamese Philosophy, Culture and Society.  She received her Ph.D. in 2007 from Columbia University for her dissertation on quan ho singing: Mediating the Folk: television and the representation of traditional culture in Vietnam.  She was an ACLS International Dissertation Field Research Fellow, as well as a Fulbright-Hays Fellow in Vietnam.
@@ -206,7 +206,7 @@ She is collaborating with Temple’s Vietnam Center on a long-term project to fi
 
 ___
 
-![Ngô Thanh Nhàn]({{site.baseurl}}/media/cropped nhan_4x6.jpg){:.img-right} 
+![Ngô Thanh Nhàn]({{site.baseurl}}/media/cropped nhan_4x6.jpg){:.responsive-img .img-right} 
 **_Dr. Ngô Thanh Nhàn_**<br>
 
 Dr. Ngô Thanh Nhàn as Visiting Research Scholar, from September 1, 2006. Dr Nhàn will be working on projects connected to the digitizing of Nôm documents, in particular the collection of Hán Nôm documents held by the Institute of Social Science Information in Hanoi and village records with the General Library of Thừa Thiên-Huế in 2014. Since 2016 he is involving in a graphic representation of Vietnamese folk music.
@@ -219,7 +219,7 @@ See more information on the Preservation of Vietnam's Nôm Script and the Center
 
 ___
 
-![Phạm Thanh Nghị]({{site.baseurl}}/media/resized Pham-Thanh-Nghi.jpg){:.img-right}
+![Phạm Thanh Nghị]({{site.baseurl}}/media/resized Pham-Thanh-Nghi.jpg){:.responsive-img .img-right}
 **[_Professor Phạm Thanh Nghị_](mailto:ptnghi2008@gmail.com)**<br>
 **_Professor, Institute of Psychology Vietnam Academy of Social Sciences_**<br>
 
@@ -231,7 +231,7 @@ Phạm Thanh Nghị is a principal investigator for the World Values Survey 2001
 
 ___
 
-![Dave Paulson]({{site.baseurl}}/media/resized DavePaulson_4.jpg){:.img-right}
+![Dave Paulson]({{site.baseurl}}/media/resized DavePaulson_4.jpg){:.responsive-img .img-right}
 **[_Dave Paulson_](mailto:Dave.Paulson@temple.edu)**<br>
 **_PhD and University Fellow, Department of Anthropology_**<br>
 
@@ -239,7 +239,7 @@ I am a doctoral candidate in the Department of Anthropology with a specializatio
 
 ___
 
-![Tara Thu Phan]({{site.baseurl}}/media/resized AnhThu_headshot_04152017.jpg){:.img-right}
+![Tara Thu Phan]({{site.baseurl}}/media/resized AnhThu_headshot_04152017.jpg){:.responsive-img .img-right}
 **[_Tara Thu Phan_](mailto:tuj67921@temple.edu)**<br>
 **_M.A. Music Education, Columbia University Teachers College_**<br>
 
@@ -276,7 +276,7 @@ three regional "Songs of the Starling, presentation at the 46th Annual Mid-Atlan
 
 ___
 
-![Dr. Trần Hàn Giang]({{site.baseurl}}/media/resized tranhangiang.jpg){:.img-right}
+![Dr. Trần Hàn Giang]({{site.baseurl}}/media/resized tranhangiang.jpg){:.responsive-img .img-right}
 **[_Dr. Trần Hàn Giang_](https://liberalarts.temple.edu/academics/faculty/jhala-jayasinhji)**<br>
 **_Visiting Fullbright Scholar, 2006-2007_**<br>
 
@@ -284,7 +284,7 @@ Dr. Trần Hàn Giang, former Director of the Institute of Family and Gender Stu
 
 ___
 
-![Dr. Lu Zhang]({{site.baseurl}}/media/resized Lu_Zhang_750.jpg){:.img-right}
+![Dr. Lu Zhang]({{site.baseurl}}/media/resized Lu_Zhang_750.jpg){:.responsive-img .img-right}
 **[_Dr. Lu Zhang_](https://liberalarts.temple.edu/academics/faculty/zhang-lu)**<br>
 **_Associate Professor, Department of Anthropology_**<br>
 
@@ -294,7 +294,7 @@ Zhang has started a new research project that explores the causes, processes, an
 
 ___
 
-![Dr. Sophia Quinn-Judge]({{site.baseurl}}/media/sophie_2010.jpg){:.img-right}
+![Dr. Sophia Quinn-Judge]({{site.baseurl}}/media/sophie_2010.jpg){:.responsive-img .img-right}
 **[_Dr. Sophia Quinn-Judge_](mailto:quinnjud@temple.edu)**<br>
 
 "My academic research began with the early political career of Ho Chi Minh, which involved a transnational examination of the early communist movement and Comintern; now I am studying the evolution of the concept of a ‘Third Way’ in Vietnamese politics, from the perspective of the Saigon political class and urban anti-war movement as well, as the Hanoi politburo. In an earlier life I worked as a volunteer in Southeast Asia, and as a free-lance journalist in Bangkok and Moscow."

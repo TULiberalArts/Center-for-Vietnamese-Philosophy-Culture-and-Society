@@ -8,7 +8,6 @@ title: Courses
 description: >-
 keywords: ''
 # custom variables
-sidebar: false
 ---
 **NEED UPDATED CONTENT FOR THIS ENTIRE PAGE**
 
@@ -31,5 +30,5 @@ Among the works we read are the narrative poem, The Tale of Kieu by Nguyen Dieu;
 
 For further information on the course please contact Dr. Quinn-Judge at [quinnjud@temple.edu](mailto:quinnjud@temple.edu).
 
-### History of Vietnam 
-This course will be taught in Spring 2007 by Dr.  Nguyen, Dieu T. The History of Vietnam emphasizes cultural, social, and economic factors, tracing Vietnamese history from its mythological origins to the 21st century. Topics include indigenous social formations, the period of Chinese domination, the rise of independent Vietnamese dynasties, the French colonial era, the Vietnamese Revolution, and the three Indochina Wars, including the Vietnam Conflict in the 20th century. It will close with consideration of life under the current Socialist Republic of Vietnam. 
+### History of Vietnam
+This course will be taught in Spring 2007 by Dr.  Nguyen, Dieu T. The History of Vietnam emphasizes cultural, social, and economic factors, tracing Vietnamese history from its mythological origins to the 21st century. Topics include indigenous social formations, the period of Chinese domination, the rise of independent Vietnamese dynasties, the French colonial era, the Vietnamese Revolution, and the three Indochina Wars, including the Vietnam Conflict in the 20th century. It will close with consideration of life under the current Socialist Republic of Vietnam.

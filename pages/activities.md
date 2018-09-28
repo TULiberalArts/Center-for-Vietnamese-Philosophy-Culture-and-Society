@@ -8,9 +8,8 @@ title: Activities
 description: >-
 keywords: ''
 # custom variables
-sidebar: false
 ---
-## Conferences 
+## Conferences
 
 ### International Conference on Education and Social Integration
 - Ho Chi Minh City, August 10-11, 2016<br>

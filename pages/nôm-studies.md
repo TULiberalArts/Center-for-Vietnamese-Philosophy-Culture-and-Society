@@ -9,7 +9,6 @@ description: >-
   A research project in the Vietnamese Nôm cultural heritage.
 keywords: ''
 # custom variables
-sidebar: false
 ---
 ## The 喃學 Nôm Studies Project
 ![Nôm Studies Project]({{site.baseurl}}/media/resized Nom Studies.jpg){:.responsive-img .img-right}
@@ -28,37 +27,37 @@ The Nôm Studies is a research project in text documents written in the national
 Organizations and institutions doing research in Nôm. Please [contact us](mailto:nhan@temple.edu) if you would like to link with this site.
 
 **Institute of Social Sciences Information**<br>
-Viện Thông tin Khoa học Xã hội<br> 
+Viện Thông tin Khoa học Xã hội<br>
 26 Lý Thường Kiệt Street<br>
-Hanoi, Vietnam<br> 
+Hanoi, Vietnam<br>
 Tel: [+84 4 825 3074](tel:8448253074)<br>
 Website- Broken Link
 
 **Institute of Han Nom Research**<br>
 Viện Nghiên cứu Hán Nôm<br>
 183 Đặng Tiến Đông Street<br>
-Đống Đa District, Hanoi, Vietnam<br> 
-Tel: [+84 4 857 3194](tel:8448573194)<br> 
+Đống Đa District, Hanoi, Vietnam<br>
+Tel: [+84 4 857 3194](tel:8448573194)<br>
 Fax [+84 4 857 0940](tel:8448570940)<br>
-Email: hannom105@vnn.vn<br> 
+Email: hannom105@vnn.vn<br>
 Website- Broken Link<br>
 
 **National Center for Vietnamese Studies**<br>
 Trung tâm Nghiên cứu Quốc học<br>
 9 Nguyễn Đình Chiểu Street<br>
-Hanoi, Vietnam<br> 
+Hanoi, Vietnam<br>
 Tel: [+84 4 943 8072](tel:8449438072)<br>
 Fax: [+84 4 826 3777](tel:8448263777)<br>
 
 **81 Trần Quốc Toản Street**<br>
-Ho Chi Minh City, Vietnam<br> 
+Ho Chi Minh City, Vietnam<br>
 Tel: [+84 8 932 7061](tel:8489327061)<br>
 Email: broken link<br>
 
 **Thua Thien-Hue Center for Information Technology (HueCIT)**<br>
 Trung tâm Công nghệ Thông tin Thừa Thiên – Huế<br>
-6 Lê Lợi Street<br> 
-Huế, Vietnam<br> 
+6 Lê Lợi Street<br>
+Huế, Vietnam<br>
 Website- Broken Link<br>
 
 **Đạo Uyển Group – Nôm documents**<br>
@@ -69,7 +68,7 @@ Website- Broken Link<br>
 Cary, NC 27511<br>
 [Website](http://www.nomfoundation.org)<br>
 
-**Institute of Vietnamese Studies**<br> 
+**Institute of Vietnamese Studies**<br>
 Viện Việt học<br>
 P.O.Box 11900<br>
 Westminster, CA 92685-1900<br>

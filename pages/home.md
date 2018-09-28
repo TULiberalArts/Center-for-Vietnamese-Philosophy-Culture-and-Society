@@ -8,7 +8,6 @@ title: Home
 description: >-
 keywords: ''
 # custom variables
-sidebar: false
 feature: true
 feature-title: >-
 feature-image: media/vietnamhero.png

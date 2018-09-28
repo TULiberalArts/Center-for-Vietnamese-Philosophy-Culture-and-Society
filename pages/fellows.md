@@ -8,7 +8,6 @@ title: Fellows
 description: >-
 keywords: ''
 # custom variables
-sidebar: false
 ---
 ## Center for Vietnamese Philosophy and Society Fellows
 
@@ -20,13 +19,13 @@ Professor Alperson’s main interests are in aesthetics, the philosophy of the a
 
 ___
 
-**Dr. Marcus Bingenheimer 馬德偉**<br> 
-**_Assistant Professor, Department of Religion_**<br> 
+**Dr. Marcus Bingenheimer 馬德偉**<br>
+**_Assistant Professor, Department of Religion_**<br>
 
 **[Dr. Marcus Bingenheimer 馬德偉](https://liberalarts.temple.edu/academics/faculty/bingenheimer-marcus)** was born in Germany. He obtained an MA (Sinology) and Dr.phil (History of Religions) from Würzburg University and an MA (Communication Studies) from Nagoya University. Marcus currently works as Assistant Professor at Temple University, Philadelphia. From 2005 to 2011 he taught at Dharma Drum Buddhist College 法鼓佛教學院, Taiwan, where he supervised [various projects](http://www.ddbc.edu.tw/en/digital_archives/projects.html) concerning the digitization of Buddhist culture. Here is a [blog](http://digitalresourcesforbuddhiststudies.wordpress.com/) about these issues. His main research interests are the history of Buddhism in East Asia and early Buddhist Sutra literature. Currently, he is working on two very different kinds of texts: Āgama literature and Ming-Qing dynasty temple gazetteers. Next to that, Marcus is interested in Humanities Computing and how to do research in the age of digital information.
 
-Some of Dr. Bingenheimer's current projects include: 
-- As project director (since 2010): **[A Critical, Digital Edition of the Song gaoseng zhuan 宋高僧傳之校勘與數位化版本](http://buddhistinformatics.ddbc.edu.tw/songgaosengzhuan/)**. Aims at a best edition and visualization of the Song gaoseng zhuan. Funded by the Chiang Ching-Kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會 (RG001-D-09). 
+Some of Dr. Bingenheimer's current projects include:
+- As project director (since 2010): **[A Critical, Digital Edition of the Song gaoseng zhuan 宋高僧傳之校勘與數位化版本](http://buddhistinformatics.ddbc.edu.tw/songgaosengzhuan/)**. Aims at a best edition and visualization of the Song gaoseng zhuan. Funded by the Chiang Ching-Kuo Foundation for International Scholarly Exchange 蔣經國國際學術交流基金會 (RG001-D-09).
 - As project director (since 2008): **[Digital Archive of Chinese Buddhist Temple Gazetteers 中國佛教寺廟志數位典藏](http://buddhistinformatics.ddbc.edu.tw/fosizhi/)**. Digitization of 230+ Buddhist temple gazetteers 中國佛寺志. Funded by the Chung-hwa Institute of Buddhist Studies 中華佛學研究學院.
 - As editor and translator (since 2005): A Translation of the Chinese Madhyama Āgama, the Zhong ahan jing 中阿含經 (T.26). This long-term translation project is funded by the Numata Foundation 仏教伝道協会. (See [here](http://mbingenheimer.net/t26/index.html)). The first of three volumes is forthcoming 2012. Once completed, this project will be the largest translation from Buddhist Chinese into an European language so far.
 
@@ -86,7 +85,7 @@ ___
 
 ![Trương Thị Thuý Hằng]({{site.baseurl}}/media/resized thuyhang_300.jpg){:.responsive-img .img-right}
 **[_Trương Thị Thuý Hằng_](mailto:thuyhangihs@gmail.com)**<br>
-**_National Institute for Educational Management_**<br> 
+**_National Institute for Educational Management_**<br>
 
 **Education**
 - 1981: M.A. Economics, Hanoi University. Thesis: Export fluentuation tendency of United States of America - Japan - Western Europe after II World War.
@@ -126,7 +125,7 @@ Articles and papers: About 100 articles in reviews, journals and books, in works
 
 ___
 
-![Dr. Lương Thu Hiền]({{site.baseurl}}/media/resized LuongThuHien_200.jpg){:.responsive-img .img-right} 
+![Dr. Lương Thu Hiền]({{site.baseurl}}/media/resized LuongThuHien_200.jpg){:.responsive-img .img-right}
 **[_Dr. Lương Thu Hiền_](mailto:hluong@temple.edu)**<br>
 
 She is a founding member of the Ford Foundation Project for Philosophical Development in Vietnam, parts of which are the English-Vietnamese Handbook on Philosophy and Political Economy, and series of international conferences in philosophy.
@@ -135,9 +134,9 @@ She has published in philosophical journals including The Journal of Philosophy 
 
 - 2007 - present: She is a doctoral candidate in Philosophy at Temple University.
 - 2003 - present: The Ford Foundation fellowship for the Ph.D program in Philosophy at Temple University.
-- 2001: American Council of Learned Society-ACLS (CEEVN) scholarship for Language Studies at the University of Pennsylvania. 
+- 2001: American Council of Learned Society-ACLS (CEEVN) scholarship for Language Studies at the University of Pennsylvania.
 - 2000: Swiss Government fellowship for Human Right Studies at Summer University for Human Rights and the Right to Education, Geneva, Switzerland.
-- 1996- present: Faculty member at the Department of Philosophy, the Ho Chi Minh National Political Academy, Hanoi, Vietnam. 
+- 1996- present: Faculty member at the Department of Philosophy, the Ho Chi Minh National Political Academy, Hanoi, Vietnam.
  
 ___
 
@@ -180,7 +179,7 @@ ___
 **[_Dr. Jayasinhji Jhala_](https://liberalarts.temple.edu/academics/faculty/jhala-jayasinhji)**<br>
 **_Associate Professor, Department of Anthropology_**<br>
 
-I am the director of our visual anthropology programs and director of the media lab I have been involved in interpreting culture on film and video for the past twenty years. I have been educated at the St Stephens College, Delhi, India, where I received a BA in English Literature (1968), from the Massachusetts Institute of Technology I received a MVS (1983) and from Harvard University I received a Ph.D (1991). I've produced, directed, filmed and edited over fifteen well received ethnographic films, that illustrate the cultures of India and the U.S. and speak to various issues in visual anthropology. A Zenana and Tragada Bhavai [1981], Bharvad Predicament, Journey with Ganapati [1983], Forgotten Headhunters and Apatani Sacrifice (1978), Whose Paintings? (1995), Morning with Asch (1997) and Conversation with a Collector: Dialogue with a Docent (1998), ShaktiMa Noh Veh (2006), The last rtes of the Honorable Mr Rai (2008) have been seen by national and international audiences. My written publications address issues about art and anthropology, nomadism, religious worship, indigenous interpretations of local culture, ethnographic filmmaking and its reception, photography, Hindu marriage, and Rajput ideology and politics. My research is concerned with the interpretation of culture on various audio, visual and audio-visual media and new conventions by which to make visual communication more effective. 
+I am the director of our visual anthropology programs and director of the media lab I have been involved in interpreting culture on film and video for the past twenty years. I have been educated at the St Stephens College, Delhi, India, where I received a BA in English Literature (1968), from the Massachusetts Institute of Technology I received a MVS (1983) and from Harvard University I received a Ph.D (1991). I've produced, directed, filmed and edited over fifteen well received ethnographic films, that illustrate the cultures of India and the U.S. and speak to various issues in visual anthropology. A Zenana and Tragada Bhavai [1981], Bharvad Predicament, Journey with Ganapati [1983], Forgotten Headhunters and Apatani Sacrifice (1978), Whose Paintings? (1995), Morning with Asch (1997) and Conversation with a Collector: Dialogue with a Docent (1998), ShaktiMa Noh Veh (2006), The last rtes of the Honorable Mr Rai (2008) have been seen by national and international audiences. My written publications address issues about art and anthropology, nomadism, religious worship, indigenous interpretations of local culture, ethnographic filmmaking and its reception, photography, Hindu marriage, and Rajput ideology and politics. My research is concerned with the interpretation of culture on various audio, visual and audio-visual media and new conventions by which to make visual communication more effective.
 
 In addition, I am concerned with visual ethnographers, their biographies and their practice. At the present time I am working on several ethnographic films that address themes of transhumance, Hindu domestic worship, animal worship, Hindu philosophical concepts, Rajput ideology and biography. Much of this material has been gathered and structured in collaborations with Temple graduate students (Courtney Stoll, Robert Segel, Bruce Broce, Dr. Mathew Durrington, Dr.Joseph Gonzales, Susanne Kempf, Robert Lazarsky, Dr.Carey Million, Elizabeth Noznesky, Dr. Sam Pack, Dr. Lindsey Powell, Dr Pallabi Charkravoty), and undergraduate students (Rhett Grumbkow, Katey Mangels, Justin Agnew, Alethea carbough, Lauren Semmel, Ilan Isakov, Paul Salvitti,Richard Cousins, Ronn Asch, Alex Goldblum, Brendan Muzinski, Shawn Tymon, Philip Rached, Mioko Kurasawa) in field research and media lab participation in the US and in India, and in collaboration with individuals and institutions in both countries. I am the Director of the [Temple University Summer Program for India](http://isc.temple.edu/jjhala/templeindia/). This is intended for undergraduates and graduate students alike and it is designed to introduce them to an alien culture in a nurturing environment. Students can explore the various dimensions of the program by looking it up as well as contacting the Temple University International Program's Director Denise Connerty at [(215) 204- 0727](tel:2152040727). I am now the Director of the new Visual Anthropology Initiative for Vietnam at Temple University, Center for Vietnamese Philosophy, Culture, & Society and am assisting in growing the discipline of visual anthropology in Vietnam, with Dr. Lauren Meeker, Dr. Nguyen Bich Hien, Lauren Semmel, Dr. Philip Alperson and Dr. Sophie Quinn-Judge.
 
@@ -206,7 +205,7 @@ She is collaborating with Temple’s Vietnam Center on a long-term project to fi
 
 ___
 
-![Ngô Thanh Nhàn]({{site.baseurl}}/media/cropped nhan_4x6.jpg){:.responsive-img .img-right} 
+![Ngô Thanh Nhàn]({{site.baseurl}}/media/cropped nhan_4x6.jpg){:.responsive-img .img-right}
 **_Dr. Ngô Thanh Nhàn_**<br>
 
 Dr. Ngô Thanh Nhàn as Visiting Research Scholar, from September 1, 2006. Dr Nhàn will be working on projects connected to the digitizing of Nôm documents, in particular the collection of Hán Nôm documents held by the Institute of Social Science Information in Hanoi and village records with the General Library of Thừa Thiên-Huế in 2014. Since 2016 he is involving in a graphic representation of Vietnamese folk music.
@@ -243,13 +242,13 @@ ___
 **[_Tara Thu Phan_](mailto:tuj67921@temple.edu)**<br>
 **_M.A. Music Education, Columbia University Teachers College_**<br>
 
-**Tara Thu Phan**, M.A., is a highly motivated, self-directed educator who constantly design fun learning experiences to nurture the love of music in young children. She has been appointed Artist-in-Residence at Mekong NYC in 2016. Her work focuses on cultivating traditional identities for underserved Southeast Asian children in the Bronx through music, visualization, and traditional games. She has also been volunteering to teach music to cancer children. She believes that, by possessing skills in and experiencing the joy of appreciating and creating artworks, children will develop more resilient attitudes towards life's hardship and illness. Tara's goal is to make high-quality music education more accessible to underprivileged children. She is doing research on designing and manufacturing music teaching aids that is of high quality, low cost, and mobile for remote teaching sites. Tara is also a teaching artist holding interactive piano recitals for children. 
+**Tara Thu Phan**, M.A., is a highly motivated, self-directed educator who constantly design fun learning experiences to nurture the love of music in young children. She has been appointed Artist-in-Residence at Mekong NYC in 2016. Her work focuses on cultivating traditional identities for underserved Southeast Asian children in the Bronx through music, visualization, and traditional games. She has also been volunteering to teach music to cancer children. She believes that, by possessing skills in and experiencing the joy of appreciating and creating artworks, children will develop more resilient attitudes towards life's hardship and illness. Tara's goal is to make high-quality music education more accessible to underprivileged children. She is doing research on designing and manufacturing music teaching aids that is of high quality, low cost, and mobile for remote teaching sites. Tara is also a teaching artist holding interactive piano recitals for children.
 
 - **May 24-25, 2018**<br>
 "Teaching Vietnamese music through linguistic and folklore contexts," with Dr. Ngô Thanh Nhàn, at the [Breaking Boundaries: Community Music Research Symposium](http://www.tc.columbia.edu/iccm/conference-presentations), Columbia University Teachers Colleges, New York.
 
 - **December, 2017**<br>
-["A Contribution to Teaching Vietnamese Music: Key Pitches in Context and Pitch Contour Graph,"](http://journal.ussh.vnu.edu.vn/index.php/vjossh/article/view/277) with Dr. Ngô Thanh Nhàn, Journal of Social Sciences and Humanities Vol 3, No 5 (2017): 573-585. Hanoi: Vietnam. 
+["A Contribution to Teaching Vietnamese Music: Key Pitches in Context and Pitch Contour Graph,"](http://journal.ussh.vnu.edu.vn/index.php/vjossh/article/view/277) with Dr. Ngô Thanh Nhàn, Journal of Social Sciences and Humanities Vol 3, No 5 (2017): 573-585. Hanoi: Vietnam.
 
 - **November 15, 2017**<br>
 Capturing the Music: The Digitization and Preservation of Traditional Vietnamese Folk Music, presentation at the 12th Annual Global Temple Conference, panel Multi-disciplinary empirical approaches to Vietnamese Studies at the Center for Vietnamese Philosophy, Culture & Society, Howard Gittis Student Center, Room 217D, 10:00 - 10:50 AM.
@@ -288,7 +287,7 @@ ___
 **[_Dr. Lu Zhang_](https://liberalarts.temple.edu/academics/faculty/zhang-lu)**<br>
 **_Associate Professor, Department of Anthropology_**<br>
 
-Lu Zhang is an assistant professor of sociology at Temple University.  Her areas of specialization include globalization, labor and social movements, and the political economy of development in East Asia, especially China. She is currently working on a book project on the conditions, subjectivity and collective actions of Chinese autoworkers. This work explores how global capitalism, national state institutions and socialist legacies, and shop-floor labor activism have interacted in complex ways to produce the specific labor relations and dynamics of labor unrest in the Chinese automobile industry. It is based on twenty months fieldwork and around 300 in-depth interviews in seven automobile factories in six Chinese cities. 
+Lu Zhang is an assistant professor of sociology at Temple University.  Her areas of specialization include globalization, labor and social movements, and the political economy of development in East Asia, especially China. She is currently working on a book project on the conditions, subjectivity and collective actions of Chinese autoworkers. This work explores how global capitalism, national state institutions and socialist legacies, and shop-floor labor activism have interacted in complex ways to produce the specific labor relations and dynamics of labor unrest in the Chinese automobile industry. It is based on twenty months fieldwork and around 300 in-depth interviews in seven automobile factories in six Chinese cities.
 
 Zhang has started a new research project that explores the causes, processes, and impacts of capital relocation within China (from coastal to inland regions) as well as out of China to the new low-cost sites such as Vietnam in the global electronics industry. This comparative case study follows the geographical relocations of two electronics multinationals from the same eastern coastal region of China under the pressure of rising (labor) costs. While both companies have opted to move their manufacturing bases to both inland China and to Vietnam, the difference in their positions in global production networks, technological intensity, recruitment strategies and workers profiles on one hand, and the variations in local governments incentives and strategies towards foreign investments, local labor markets conditions and human capital investment, and local communities and cultures on the other hand, have led to varied workplace relations and labor regimes in the new production sites. By comparing the empirical evidence from China with Vietnam based on site visits and interviews, we are ready to gain some insights into the sustainable economic and social development strategies of central and local governments in (post-socialist) developing countries, and how these interact with the “labor” factor in the context of globalization and capital mobility.
 

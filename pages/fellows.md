@@ -10,6 +10,9 @@ keywords: ''
 # custom variables
 ---
 ![Banner]({{site.baseurl}}/media/resized center_banner_1500.jpg){:.responsive-img .img-center}
+
+___
+
 ## Center for Vietnamese Philosophy and Society Fellows
 
 ![Dr. Philip Alperson]({{site.baseurl}}/media/cropped Phil_2007.jpg){:.responsive-img .img-right}

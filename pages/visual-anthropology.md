@@ -10,6 +10,9 @@ keywords: ''
 # custom variables
 ---
 ![Banner]({{site.baseurl}}/media/resized center_banner_1500.jpg){:.responsive-img .img-center}
+
+___
+
 ## Visual Anthropology Initiative For Vietnam: Sáng kiến Hình ảnh Nhân học
 Professor Jayasinhji Jhala (Director), Dr. Lauren Meeker, Dr. Nguyen Bich Hien, Lauren Semmel, Dr. Philip Alperson and Dr. Sophie Quinn-Judge.
 

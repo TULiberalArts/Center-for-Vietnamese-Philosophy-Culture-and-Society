@@ -11,9 +11,9 @@ keywords: ''
 ---
 ![Banner]({{site.baseurl}}/media/resized center_banner_1500.jpg){:.responsive-img .img-center}
 
-Our staff consists of faculty members from the College of Liberal Arts and other institutions across the country. We have a wide array of scholars that maken up our staff and fellows of the center.
-
 ___
+
+Our staff consists of faculty members from the College of Liberal Arts and other institutions across the country. We have a wide array of scholars that maken up our staff and fellows of the center.
 
 ![Dr. Kimberly Ann Goyette]({{site.baseurl}}/media/cropped 160919_KimberlyGoyette-30.jpg){:.responsive-img .img-right}
 **[Dr. Kimberly Ann Goyette, Director](https://liberalarts.temple.edu/academics/faculty/goyette-kimberly)**<br>

@@ -11,6 +11,9 @@ keywords: ''
 # custom variables
 ---
 ![Banner]({{site.baseurl}}/media/resized center_banner_1500.jpg){:.responsive-img .img-center}
+
+___
+
 ## The 喃學 Nôm Studies Project
 ![Nôm Studies Project]({{site.baseurl}}/media/resized Nom Studies.jpg){:.responsive-img .img-right}
 Vietnam has two writing systems: the chữ quốc ngữ and chữ Nôm. Chữ quốc ngữ uses a roman alphabet with accents. Chữ Nôm, Hán Việt included, uses ideograms, similar to Chinese, Korean and Japanese. Chữ Nôm was used in Vietnam for more than 1,000 years before the 1920's, when it was replaced by chữ quốc ngữ. Chữ Nôm was neglected for the next 70 years.

@@ -13,43 +13,7 @@ keywords: ''
 
 ___
 
-## Visual Anthropology Initiative For Vietnam: Sáng kiến Hình ảnh Nhân học
-Professor Jayasinhji Jhala (Director), Dr. Lauren Meeker, Dr. Nguyen Bich Hien, Lauren Semmel, Dr. Philip Alperson and Dr. Sophie Quinn-Judge.
-
-![Visual Anthropology]({{site.baseurl}}/media/vai_viet_2007.jpg){:.responsive-img .img-center}
-
-
-
-___
-
-![CSCS]({{site.baseurl}}/media/resized vai_film_structure.jpg){:.responsive-img .img-center}
-
-___
-
-![CSCS]({{site.baseurl}}/media/resized vai_114_cdt_prefest_02.jpg){:.responsive-img .img-center}
-
-___
-
-![CSCS]({{site.baseurl}}/media/resized vai_034_cdt_prefest_28.jpg){:.responsive-img .img-center}
-
-___
-
-![CSCS]({{site.baseurl}}/media/resized vai_180_cdt_prefest_64.jpg){:.responsive-img .img-center}
-
-___
-
-![CSCS]({{site.baseurl}}/media/resized- vai_304_cdt_day1_27.jpg){:.responsive-img .img-center}
-
-___
-
-![CSCS]({{site.baseurl}}/media/resized vai_324_cdt_day1_47.jpg){:.responsive-img .img-center}
-
-___
-
-![CSCS]({{site.baseurl}}/media/resized vai_diem_village_ha_house_4.jpg){:.responsive-img .img-center}
-
-___
-
-![CSCS]({{site.baseurl}}/media/resized vai_358_ferry_back.jpg){:.responsive-img .img-center}
-
-___
+<div class="video-container">
+<iframe width="560px" height="315px" src="https://sway.office.com/s/JSULvtnqjBxMZDCP/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
+</div>  
+  

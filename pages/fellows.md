@@ -203,7 +203,7 @@ ___
 ![Dr. Lauren Meeker]({{site.baseurl}}/media/resized LaurenMeeker.jpg){:.responsive-img .img-right}
 **_Dr. Lauren Meeker_**<br>
 
-In 2007 Dr. Lauren Meeker became a Research Fellow of the Center for Vietnamese Philosophy, Culture and Society.  She received her Ph.D. in 2007 from Columbia University for her dissertation on quan ho singing: Mediating the Folk: television and the representation of traditional culture in Vietnam.  She was an ACLS International Dissertation Field Research Fellow, as well as a Fulbright-Hays Fellow in Vietnam.
+In 2007 Dr. Lauren Meeker became a Research Fellow of the Center for Vietnamese Philosophy, Culture and Society. She received her Ph.D. in 2007 from Columbia University for her dissertation on quan ho singing: Mediating the Folk: television and the representation of traditional culture in Vietnam.  She was an ACLS International Dissertation Field Research Fellow, as well as a Fulbright-Hays Fellow in Vietnam.
 
 She is collaborating with Temple’s Vietnam Center on a long-term project to film traditional folk festivals in Vietnam.
 
@@ -249,7 +249,7 @@ ___
 **Tara Thu Phan**, M.A., is a highly motivated, self-directed educator who constantly design fun learning experiences to nurture the love of music in young children. She has been appointed Artist-in-Residence at Mekong NYC in 2016. Her work focuses on cultivating traditional identities for underserved Southeast Asian children in the Bronx through music, visualization, and traditional games. She has also been volunteering to teach music to cancer children. She believes that, by possessing skills in and experiencing the joy of appreciating and creating artworks, children will develop more resilient attitudes towards life's hardship and illness. Tara's goal is to make high-quality music education more accessible to underprivileged children. She is doing research on designing and manufacturing music teaching aids that is of high quality, low cost, and mobile for remote teaching sites. Tara is also a teaching artist holding interactive piano recitals for children.
 
 - **May 24-25, 2018**<br>
-"Teaching Vietnamese music through linguistic and folklore contexts," with Dr. Ngô Thanh Nhàn, at the [Breaking Boundaries: Community Music Research Symposium](http://www.tc.columbia.edu/iccm/conference-presentations), Columbia University Teachers Colleges, New York.
+"Teaching Vietnamese music through linguistic and folklore contexts," with Dr. Ngô Thanh Nhàn, at the [Breaking Boundaries: Community Music Research Symposium](https://search.tc.columbia.edu/pages/iccm%20conference%20presentations), Columbia University Teachers Colleges, New York.
 
 - **December, 2017**<br>
 ["A Contribution to Teaching Vietnamese Music: Key Pitches in Context and Pitch Contour Graph,"](http://journal.ussh.vnu.edu.vn/index.php/vjossh/article/view/277) with Dr. Ngô Thanh Nhàn, Journal of Social Sciences and Humanities Vol 3, No 5 (2017): 573-585. Hanoi: Vietnam.

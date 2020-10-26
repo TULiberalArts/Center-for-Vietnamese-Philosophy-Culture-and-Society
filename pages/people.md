@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_faculty_test
 permalink: /people/
-published: false
+published: true
 # meta-data variables
 title: People
 description: >-

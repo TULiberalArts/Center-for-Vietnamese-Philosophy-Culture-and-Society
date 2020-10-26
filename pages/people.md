@@ -10,4 +10,3 @@ keywords: ''
 # custom variables
 faculty: components/staff-list.html
 ---
-
